@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*$py.class
+PLAN_DE_SESION/
+SESIONES_FINALES/
+SESIONES_POR_VERIFICAR/
+.agents/
